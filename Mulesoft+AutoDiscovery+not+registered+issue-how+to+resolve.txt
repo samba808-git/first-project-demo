@@ -1,0 +1,20 @@
+We need to configure client ID and client secret in Anypoint Studio for API auto discovery to work 
+
+
+To do this,Open Anypoint Studio.
+ 
+
+Click Anypoint Studio > Preferences, and click the arrow next to Anypoint Studio to expand the node.
+ 
+
+Click API Manager.
+ 
+In the Client ID and Client Secret fields, paste the values.
+
+
+Client ID and Client Secret fields exist in your anypoint platform login.
+Login to below link
+https://anypoint.mulesoft.com/accounts/#/cs/core/organizations
+
+
+Select on your organization link to find out the client id and client secret
